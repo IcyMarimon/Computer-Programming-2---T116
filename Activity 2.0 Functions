@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 float gradeSum(float grades[],int size){
     float sum = 0;
